@@ -1,6 +1,6 @@
 - 👋 Oi, me chamo Hiago.
 - 👀 Estou interessado em aprender programação front-end.
-- 💞️ Procuro colaborar postando meus projetos durante minha jornada.
+- Procuro colaborar postando meus projetos durante minha jornada.
 - 📫 Me contate no e-mail, contatohchiago@gmail.com
 
 
